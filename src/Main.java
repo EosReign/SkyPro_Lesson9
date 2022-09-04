@@ -6,5 +6,6 @@ public class Main {
         Book book2 = new Book("1984", man2, 1903);
         book1.setPublicationYear(1924);
         System.out.println(book1.getPublicationYear());
+        //Ну мб задание прокатит, я - черт знает.
     }
 }
