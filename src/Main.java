@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         Author man1 = new Author("Sheesh", "Block");
         Author man2 = new Author("George", "Orwell");
         Book book1 = new Book("Berserk", man1, 1234);
